@@ -22,3 +22,12 @@ Order
 |	sub-
 V
 
+Comparison Operator 
+
+<       Less than
+<=      Less than or Equal
+==      Equal To
+>=      Greater than or Equal  to 
+>       Greater than
+!=      Not Equal
+
